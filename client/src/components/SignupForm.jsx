@@ -111,4 +111,5 @@ export const SignupForm = () => {
       </table>
     </div>
   );
-};
+}
+export default SignupForm;
